@@ -1,4 +1,4 @@
-
+,
 """
 
 # -*- coding: utf-8 -*-
@@ -941,7 +941,7 @@ if selected == 'Chronical Kidney Disease':
     # 1st column: Parameters
      parameters = [
     "Age", "Blood pressure (bp)", "Specific Gravity (sg)", "Albumin (al)","Sugar (su)","Red Blood Cells (rbc)","Pus Cells (pc)","Pus Cell Clumps","Bacteria (ba)","Blood Glucose Random (bgr)","Blood Urea (bu)",
-	"Serum Creatinine (sc)","Sodium (sod)","Potassium (pot)","Hemoglobin (hemo)","Packed Cell Volume (pcv)","White Blood Cell Count (wc)","Red Blood Cell Count (rc)", "Hypertension (htn)","Diabetes Mellitus (dm)"
+	"Serum Creatinine (sc)","Sodium (sod)","Potassium (pot)","Hemoglobin (hemo)","Packed Cell Volume (pcv)","White Blood Cell Count (wc)","Red Blood Cell Count (rc)", "Hypertension (htn)","Diabetes Mellitus (dm)",
 	"Coronary Artery Disease (cad)","Appetite (appet)","Pedal Edema (pe)","Anemia (ane)"
 ]
 
