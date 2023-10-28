@@ -948,7 +948,7 @@ if selected == 'Chronical Kidney Disease':
 	# 2nd column: Normal Ranges 
      normal_ranges = [
 	     (18, 80), (130, 80), (1.003, 1.030),  (3.5, 5.0), (70, 110), (4.2, 5.9), (0, 4),(0, 0), (0, 0), (70, 110), (15, 40), (0.7, 1.2), (135, 145), (3.5, 5.0), (12, 16), (35, 45),
-	     (4500, 11000), (4.2, 5.9), (0, 0), (0, 0), (0, 0), (0, 0), (0, 0), (0, 0)
+	     (4500, 11000), (4.2, 5.9), (0, 0), (0, 0),  (0, 0), (0, 0), (0, 0), (0, 0)
 
 	     
             
@@ -957,7 +957,7 @@ if selected == 'Chronical Kidney Disease':
 	
 
 	# 3rd column: User Input 
-     user_input3 = [age , bp , sg , al , su , rbc , pc , pcc , ba , bgr, bu , sc , sod , pot , hemo , pcv , wc , rc , htn , dm , cad , appet , pe , ane]
+     user_input3 = [age , bp , sg , al , su , rbc , pc , pcc , ba , bgr, bu , sc , sod , pot , hemo , pcv , wc , rc , htn , dm ,, cad , appet , pe , ane]
    
 	 # 4th column: Check if user input falls within the normal range
 
