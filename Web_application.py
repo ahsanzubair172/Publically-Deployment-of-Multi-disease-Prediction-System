@@ -898,22 +898,22 @@ if selected == 'Chronical Kidney Disease':
         rc = st.number_input('Red Blood Cell Counts')
         
     with col4:
-        htn = st.number_input('Hypertension')
+        htn = st.number_input('Hypertension (0, 1)')
         
     with col5:
-        dm = st.number_input('Diabetes Mellitus')
+        dm = st.number_input('Diabetes Mellitus (0, 1)')
         
     with col1:
-        cad = st.number_input('Coronary Artery Disease')
+        cad = st.number_input('Coronary Artery Disease (0, 1)')
         
     with col2:
-        appet = st.number_input('Appetite')
+        appet = st.number_input('Appetite (0, 1)')
 
     with col3:
-        pe = st.number_input('Pedal Edema')
+        pe = st.number_input('Pedal Edema (0, 1)')
         
     with col4:
-        ane = st.number_input('Anemia')
+        ane = st.number_input('Anemia (0, 1)')
         
 
     
