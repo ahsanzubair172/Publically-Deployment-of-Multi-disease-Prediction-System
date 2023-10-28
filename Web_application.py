@@ -22,13 +22,13 @@ st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 # loading the saved models
 
-diabetes_model = pickle.load(open("Diabete_disease_modelw", "rb"))
+diabetes_model = pickle.load(open("Diabete_disease_modelw.sav", "rb"))
 
-heart_model = pickle.load(open("Heart_disease_model", "rb"))
+heart_model = pickle.load(open("Heart_disease_model.sav", "rb"))
 
-parkinsons_model = pickle.load(open("Parkinson's_disease_model 1", "rb"))
+parkinsons_model = pickle.load(open("Parkinson's_disease_model 1.sav", "rb"))
 
-kidney_model = pickle.load(open("CKD_disease_model", "rb"))
+kidney_model = pickle.load(open("CKD_disease_model.sav", "rb"))
 
 # sidebar for navigation
 with st.sidebar:
