@@ -957,7 +957,7 @@ if selected == 'Chronical Kidney Disease':
 	
 
 	# 3rd column: User Input 
-     user_input3 = [age , bp , sg , al , su , rbc , pc , pcc , ba , bgr, bu , sc , sod , pot , hemo , pcv , wc , rc , htn , dm ,, cad , appet , pe , ane]
+     user_input3 = [age , bp , sg , al , su , rbc , pc , pcc , ba , bgr, bu , sc , sod , pot , hemo , pcv , wc , rc , htn , dm , cad , appet , pe , ane]
    
 	 # 4th column: Check if user input falls within the normal range
 
