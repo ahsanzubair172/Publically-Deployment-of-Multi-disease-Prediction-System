@@ -369,7 +369,7 @@ if selected == 'Diabetes Disease Prediction':
      parameters = ["Gender", "Age", "Hypertension", "Heart Disease", "Smoking History", "BMI", "Hemoglobin Level", "Glucose Level"]
 
 	# 2nd column: Normal Ranges 
-     normal_ranges = [(0,2) , (18, 80) , (0,0.9) , (0,0) , (0,0) , (18.5,24.9) , (4.0,5.0 ) , (70,140 )]
+     normal_ranges = [(0,2) , (18, 80) , (0,0) , (0,0) , (0,0) , (18.5,24.9) , (4.0,5.0 ) , (70,140 )]
 
 	
 
