@@ -48,7 +48,7 @@ if selected == "Home":
 	
 
 # Title
- st.title(" Diabetes Disease Prediction System")
+ st.title(" An Aided Tool For Multi-Disease Prediction System")
  st.subheader("Welcome to our prediction platform!")
  
  st.write(""" _Diseases Predictor is a web app that employs machine learning algorithms to assess your health.
