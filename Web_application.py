@@ -33,7 +33,7 @@ kidney_model = pickle.load(open("CKD_disease_model.sav", "rb"))
 with st.sidebar:
     selected = option_menu('My Predictive System',
                            ['Home',
-							'Diabetes Disease Prediction',
+			    'Diabetes Disease Prediction',					
                             'Heart Disease Prediction',
                             'Parkinson Disease Prediction',
 			    'Chronic Kidney Disease',]
