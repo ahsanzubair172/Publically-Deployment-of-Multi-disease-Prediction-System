@@ -7,8 +7,9 @@ The **Multi-Disease Prediction System** is a machine learning-based web applicat
 - **Diabetes**
 - **Heart Disease**
 - **Parkinson's Disease**
+-  **Chronic kidney Disease**
 
-The application is built using **Streamlit** and integrates **machine learning models** trained on relevant datasets to provide predictions based on user input.
+The application is built using **Streamlit**, a powerful framework for deploying data-driven web applications, and integrates **machine learning models** trained on relevant datasets to provide predictions based on user input.
 
 ## Features
 
@@ -25,6 +26,8 @@ The application is built using **Streamlit** and integrates **machine learning m
 - **Machine Learning Models** (Decision Trees, Logistic Regression, KNN etc.)
 - **Pickle** (for model loading)
 - **Streamlit Option Menu** (for navigation)
+
+
 
 ## Installation
 
